@@ -1,2 +1,2 @@
 # Sorting-Algorithms
-Bubble, Heap, Insertion, Quck, Merge
+Bubble, Heap, Insertion, Quick, Merge
